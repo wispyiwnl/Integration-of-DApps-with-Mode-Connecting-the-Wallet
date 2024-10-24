@@ -5,7 +5,9 @@ This repository contains the code used in the tutorial on how to connect a smart
 ## Overview
 
 In this project, we demonstrate how to:
-- 
+- Set up a basic Next.js project to create the foundation for your decentralized application.
+- Install and configure reown to enable wallet connections and smart wallet support.
+- Add Mode network to the wallet options (and any EVM chain).
 
 ## Installation
 
