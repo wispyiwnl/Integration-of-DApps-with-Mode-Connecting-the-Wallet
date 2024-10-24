@@ -1,34 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Integration of DApps with Mode: Wallet and Smart Contracts | Part 1: Connecting The Wallet 
 
-## Getting Started
+This repository contains the code used in the tutorial on how to connect a smart contract to a Next.js front-end
 
-First, run the development server:
+## Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+In this project, we demonstrate how to:
+- 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Installation
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/wispyiwnl/Integration-of-DApps-with-Mode-Connecting-the-Wallet.git
+2. Navigate to the project directory:
+	```bash
+	 cd Integration-of-DApps-with-Mode-Connecting-the-Wallet
+3. Install the dependencies:
+	```bash
+	npm install
+4. Run the development server:
+	```bash
+	npm run dev
+5.  Open your browser and go to `http://localhost:3000` to view the application.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Usage
 
-## Learn More
+This repository contains the complete code used in Part 1 of our tutorial series 'Integration of DApps with Mode: Wallet and Smart Contracts'. For detailed instructions, refer to the tutorial linked below:
 
-To learn more about Next.js, take a look at the following resources:
+ - Integration of DApps with Mode: Wallet and Smart Contracts | Part 1: Connecting The Wallet 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contributing
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Feel free to submit issues or pull requests if you have suggestions or improvements.
 
-## Deploy on Vercel
+## License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is licensed under the MIT License. See the LICENSE file for details.
